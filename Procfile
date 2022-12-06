@@ -1,0 +1,1 @@
+web: gunicorn backend:app --workers=5
